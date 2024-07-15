@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is David. I am an aspiring Full-Stack developer</h2>
+<h2 align="center">Hi, my name is David<br>I am a junior full-stack developer</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">My skills include</h3>
+<h3 align="center">When it comes to development, my toolset consists of</h3>
 
 ###
 
