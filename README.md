@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">As of today, I am coding with</h3>
+<h3 align="center">My skills include</h3>
 
 ###
 
@@ -22,9 +22,9 @@
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
   <img width="22" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="45" alt="wordpress logo"  />
-  <img width="22" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
+  <img width="22" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="45" alt="wordpress logo"  />
 </div>
 
 ###
